@@ -1,0 +1,15 @@
+/Users/egornagorny/Desktop/Example/Example008_Magic/bin/Debug/net6.0/Example008_Magic
+/Users/egornagorny/Desktop/Example/Example008_Magic/bin/Debug/net6.0/Example008_Magic.deps.json
+/Users/egornagorny/Desktop/Example/Example008_Magic/bin/Debug/net6.0/Example008_Magic.runtimeconfig.json
+/Users/egornagorny/Desktop/Example/Example008_Magic/bin/Debug/net6.0/Example008_Magic.dll
+/Users/egornagorny/Desktop/Example/Example008_Magic/bin/Debug/net6.0/Example008_Magic.pdb
+/Users/egornagorny/Desktop/Example/Example008_Magic/obj/Debug/net6.0/Example008_Magic.csproj.AssemblyReference.cache
+/Users/egornagorny/Desktop/Example/Example008_Magic/obj/Debug/net6.0/Example008_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egornagorny/Desktop/Example/Example008_Magic/obj/Debug/net6.0/Example008_Magic.AssemblyInfoInputs.cache
+/Users/egornagorny/Desktop/Example/Example008_Magic/obj/Debug/net6.0/Example008_Magic.AssemblyInfo.cs
+/Users/egornagorny/Desktop/Example/Example008_Magic/obj/Debug/net6.0/Example008_Magic.csproj.CoreCompileInputs.cache
+/Users/egornagorny/Desktop/Example/Example008_Magic/obj/Debug/net6.0/Example008_Magic.dll
+/Users/egornagorny/Desktop/Example/Example008_Magic/obj/Debug/net6.0/refint/Example008_Magic.dll
+/Users/egornagorny/Desktop/Example/Example008_Magic/obj/Debug/net6.0/Example008_Magic.pdb
+/Users/egornagorny/Desktop/Example/Example008_Magic/obj/Debug/net6.0/Example008_Magic.genruntimeconfig.cache
+/Users/egornagorny/Desktop/Example/Example008_Magic/obj/Debug/net6.0/ref/Example008_Magic.dll
