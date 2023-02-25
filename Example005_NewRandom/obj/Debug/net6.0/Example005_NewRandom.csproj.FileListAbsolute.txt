@@ -1,0 +1,15 @@
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/bin/Debug/net6.0/Example005_NewRandom
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/bin/Debug/net6.0/Example005_NewRandom.deps.json
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/bin/Debug/net6.0/Example005_NewRandom.runtimeconfig.json
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/bin/Debug/net6.0/Example005_NewRandom.dll
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/bin/Debug/net6.0/Example005_NewRandom.pdb
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/obj/Debug/net6.0/Example005_NewRandom.csproj.AssemblyReference.cache
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/obj/Debug/net6.0/Example005_NewRandom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/obj/Debug/net6.0/Example005_NewRandom.AssemblyInfoInputs.cache
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/obj/Debug/net6.0/Example005_NewRandom.AssemblyInfo.cs
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/obj/Debug/net6.0/Example005_NewRandom.csproj.CoreCompileInputs.cache
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/obj/Debug/net6.0/Example005_NewRandom.dll
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/obj/Debug/net6.0/refint/Example005_NewRandom.dll
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/obj/Debug/net6.0/Example005_NewRandom.pdb
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/obj/Debug/net6.0/Example005_NewRandom.genruntimeconfig.cache
+/Users/egornagorny/Desktop/Example/Example005_NewRandom/obj/Debug/net6.0/ref/Example005_NewRandom.dll
