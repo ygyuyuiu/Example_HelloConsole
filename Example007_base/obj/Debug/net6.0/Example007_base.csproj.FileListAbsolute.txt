@@ -1,0 +1,15 @@
+/Users/egornagorny/Desktop/Example/Example007_base/bin/Debug/net6.0/Example007_base
+/Users/egornagorny/Desktop/Example/Example007_base/bin/Debug/net6.0/Example007_base.deps.json
+/Users/egornagorny/Desktop/Example/Example007_base/bin/Debug/net6.0/Example007_base.runtimeconfig.json
+/Users/egornagorny/Desktop/Example/Example007_base/bin/Debug/net6.0/Example007_base.dll
+/Users/egornagorny/Desktop/Example/Example007_base/bin/Debug/net6.0/Example007_base.pdb
+/Users/egornagorny/Desktop/Example/Example007_base/obj/Debug/net6.0/Example007_base.csproj.AssemblyReference.cache
+/Users/egornagorny/Desktop/Example/Example007_base/obj/Debug/net6.0/Example007_base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egornagorny/Desktop/Example/Example007_base/obj/Debug/net6.0/Example007_base.AssemblyInfoInputs.cache
+/Users/egornagorny/Desktop/Example/Example007_base/obj/Debug/net6.0/Example007_base.AssemblyInfo.cs
+/Users/egornagorny/Desktop/Example/Example007_base/obj/Debug/net6.0/Example007_base.csproj.CoreCompileInputs.cache
+/Users/egornagorny/Desktop/Example/Example007_base/obj/Debug/net6.0/Example007_base.dll
+/Users/egornagorny/Desktop/Example/Example007_base/obj/Debug/net6.0/refint/Example007_base.dll
+/Users/egornagorny/Desktop/Example/Example007_base/obj/Debug/net6.0/Example007_base.pdb
+/Users/egornagorny/Desktop/Example/Example007_base/obj/Debug/net6.0/Example007_base.genruntimeconfig.cache
+/Users/egornagorny/Desktop/Example/Example007_base/obj/Debug/net6.0/ref/Example007_base.dll
